@@ -103,10 +103,130 @@
 		{"dear-agony": "https://www.youtube.com/watch?v=wQjPuUqj7_g&list=OLAK5uy_kFNj8VyQ2a3MLmx9kk-xFAiWQbz4w7BSw"},
 		{"phobia": "https://www.youtube.com/watch?v=84cdTtK62dw&list=OLAK5uy_nl-1HFsx8cCC8wSkTKnMmxQejjqLU-1FY"}
 	],
-	"the beatles":[
+	"the-beatles":[
 		{"1": "https://www.youtube.com/watch?v=pt_zgUqoyWI&list=OLAK5uy_nw79XlhbNKbUhCEHglLc2e8KR_XY20AuU"},
 		{"the-white-album": "https://www.youtube.com/watch?v=nS5_EQgbuLc&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI"},
 		{"help": "https://www.youtube.com/watch?v=2Q_ZzBGPdqE&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A"}
-	]
+	],
+	"sanctus-metalicum":[
+		{"metal-hymns-3": "https://www.youtube.com/watch?v=yfwP9Tj3J4M&list=PLGbNGeRGmX2CXFWtwM0UEe6r2cRvQd7u_"},
+		{"metal-hymns-2": "https://www.youtube.com/watch?v=fOxNEMTENKQ&list=PLGbNGeRGmX2A0qw9YsOtHol1_J5ZOH12m"},
+		{"metal-hymns-1": "https://www.youtube.com/watch?v=FBJffio8ZeQ&list=PLGbNGeRGmX2AFEOGAGKqcJP54UdEMijtz"},
+		{"thomistic-metal": "https://www.youtube.com/watch?v=Y4FH7G2j9mI&list=PLGbNGeRGmX2BDDf6qvV3cunZoxyh27Q0k"}
+	],
+	"ashan-levi":[
+		{"redemption": "https://www.youtube.com/watch?v=0r5vQowQe0c&list=OLAK5uy_lHvxJgNx3k7QxzomthR8JraEsU-S8UfnQ"},
+		{"dust-to-grace": "https://www.youtube.com/watch?v=GuyAvTVRBC4&list=OLAK5uy_lJCMdcbuFBHBWXzFLejLpyqXpEF9rVqLw"},	
+	],
+	"james blunt":[
+		{"back-to-bedlam": "https://www.youtube.com/watch?v=0rJTbJOeFMA&list=OLAK5uy_lsRQUwZEe2CE78HUlhoJd-Uth_t7aGDyw"},
+		{"all-the-lost-souls": "https://www.youtube.com/watch?v=uWeqeQkjLto&list=OLAK5uy_lOp-ISTW8bkZj_8kyz2i1Gk5ieuc_daAU"},
+		{"some-kind-of-trubble": "https://www.youtube.com/watch?v=x1yOGhnmYfI&list=OLAK5uy_nfsf0epEjZxPCUEtn5Jj0g2vDarTGGxEQ"},
+		{"moon-landing": "https://www.youtube.com/watch?v=qSg-sqnINd0&list=OLAK5uy_lf7ygSOPDA5plqb3KdGFRjdUzbFQXBCJE"}	
+	],
+	"gorillaz":[
+		{"gorillaz": "https://www.youtube.com/watch?v=Tv1SYqLllKI&list=OLAK5uy_nCZqWcwZb_UQ0lmFgYUHiywAlyKVBP_uA"},
+		{"demon-days": "https://www.youtube.com/watch?v=Tv1SYqLllKI&list=OLAK5uy_nCZqWcwZb_UQ0lmFgYUHiywAlyKVBP_uA"},
+		{"plastic-beach": "https://www.youtube.com/watch?v=XpY2n_YPv_g&list=OLAK5uy_l2_IrTKMXmIJhXy698EFDYTuUM5VcitBM"}
+	],
+	"metallica":[
+		{"ride-the-lightning": "https://www.youtube.com/watch?v=8zSODUOoE8w&list=OLAK5uy_k4yeBNbCJLDBeqj_QsTlpRoncOxmGLQDo"},
+		{"the-black-album": "https://www.youtube.com/watch?v=CD-E-LDc384&list=OLAK5uy_l3qf_fJNreo3L6_ZPIaLOquqfTda--gZc"},
+		{"load": "https://www.youtube.com/watch?v=4dLNm973lhE&list=OLAK5uy_lIqFdCRq6WvruFjR5gMmkOmQ4CsJGxLNk"},
+		{"reload": "https://www.youtube.com/watch?v=G1cjHbXdU0s&list=OLAK5uy_lEprCyUMjnrY7JNpS0jozE9CvpzgP0TsQ"}	
+	],
+	"creed":[
+		{"full-circle": "https://www.youtube.com/watch?v=CFLXxqoapPY&list=OLAK5uy_l6alats2vS3Gn0LnBd-M-BSLiRrRVRz_Q"},
+		{"my-own-prison": "https://www.youtube.com/watch?v=ypJ9No2ktak&list=OLAK5uy_nDsb5NL9NqIdacKdkqT3NEAlxLii3juS8"},
+		{"weathered": "https://www.youtube.com/watch?v=oPzhUp8mWgs&list=OLAK5uy_kwSXR-4XGeSFqfUf549-3R50smQ35vkKU"}
+	],
+	"Guns-and-roses":[
+		{"Appetitie-for-desstruction": "https://www.youtube.com/watch?v=o1tj2zJ2Wvg&list=OLAK5uy_n13hmdsIozcCRyaY4cRDuuviphpfbzPrw"},
+		{"use-your-illusion": "https://www.youtube.com/watch?v=4cQg8k3Znvw&list=OLAK5uy_kaueFscwZLW5eh2di3wmeerRd-uMPbH1E"},
+		{"use-your_illusion-2": "https://www.youtube.com/watch?v=-ucDiz3GYrg&list=OLAK5uy_ngsI0F8kApDkW-ZyPhPByRSk_CHQcSwts"}	
+	],
+	"def-leppard":[
+		{"high-and-dry": "https://www.youtube.com/watch?v=sHNBxd4LnDs&list=OLAK5uy_kZv5VtzDlHtYnDKMSB5LeX1-frbFbFwec"},
+		{"pyromainia": "https://www.youtube.com/watch?v=1mxxSQF8uMQ&list=OLAK5uy_l3oLLC5ms690aykS8xuz62HQqjEA8OrUA"},
+		{"hysteria": "https://www.youtube.com/watch?v=4HR0P3sIb80&list=OLAK5uy_mTLr7-VXRiKoo3TTPbcKPSLQ7WnegbN28"}
+	],
+	"bon-jovi":[
+		{"keep-the-faith": "https://www.youtube.com/watch?v=TW4P5AcQFwA&list=OLAK5uy_lrxq6xLOtOkDQ06U55hpqnDe9uofsq_nE"},
+		{"cross-road": "https://www.youtube.com/watch?v=lDK9QqIzhwk&list=OLAK5uy_kzC1n2yZLe0Q9tmKkonSxZ-Kdb1CH9-G4"},
+		{"have-a-nice-day": "https://www.youtube.com/watch?v=uCg2BoKiuOM&list=OLAK5uy_lz7T5L0eUxOJczstgiuxDUFpcUPEVAypc"},	
+	],
+	"skillet":[
+		{"revolution": "https://www.youtube.com/watch?v=niNaYjO5VCY&list=OLAK5uy_kv9cYOZ30T6I9x3VfWYp-b6neEcvFU7kY"},
+		{"dominion": "https://www.youtube.com/watch?v=7IpP6j7je5A&list=OLAK5uy_memVuo6G06XMgnsNj442-rBFmGNiD_KqM"},
+		{"victorius": "https://www.youtube.com/watch?v=DApP8dCZOdU&list=OLAK5uy_kV6avNF4vnzPvVHXaWRjY9M40lGcwvZPc"},
+		{"unleashed": "https://www.youtube.com/watch?v=Qzw6A2WC5Qo&list=OLAK5uy_kK9sxTcWdInY6i898PhFlc3xiyVjChyuc"}	
+	],
+	"brad-paisly":[
+		{"who-needs-pictures": "https://www.youtube.com/watch?v=-TWYlqaprIo&list=OLAK5uy_lVhiRRHIWDQEXP_h6UpHsGWP7Z97EYJEw"},
+		{"time-well-wasted": "https://www.youtube.com/watch?v=93niv-kijAY&list=OLAK5uy_kgJA04KYFwlLImZV5US671hNfWM1WQ7n4"},
+		{"moonshine-in-the-trunk": "https://www.youtube.com/watch?v=e79lpByTfXE&list=OLAK5uy_nm7qGvz2QC8moYg09og-j7jIyAYzLBI3E"}
+	],
+	"lords_of-the-underground":[
+		{"house-of-lords": "https://www.youtube.com/watch?v=GpGqxPjU0n8&list=OLAK5uy_kj7hAJP5aQeWuBUxktDhXqenODBzLWHhA"},
+		{"here-comes-the-lords": "https://www.youtube.com/watch?v=K-mtA_HNJjs&list=OLAK5uy_lHp2W0CI7hqyr2Oz7X-_xznAEWTExtxk0"}
+	],
+	"2pac":[
+		{"greatest-hits": "https://www.youtube.com/watch?v=MSaAZZMs0FY&list=OLAK5uy_khuSPeRXZ1BquNYHUwt8HDT6cvShKVX0w"}
+	],
+	"ac-dc":[
+		{"highway-to-hell": "https://www.youtube.com/watch?v=l482T0yNkeo&list=OLAK5uy_ndtC-L5jVj2N2yhizWxXYqBnm9-5Pn9y4"},
+		{"powerrage": "https://www.youtube.com/watch?v=-0Oa5wvARSc&list=OLAK5uy_l3pAO2qdUMV-QSSmoaf6qAtnHmztLNacg"},
+		{"back-in-black": "https://www.youtube.com/watch?v=etAIpkdhU9Q&list=OLAK5uy_l83XNDdw6yoNRNhqxzLgFthzDohguKu_A"}
+	],
+	"":[
+		{"": ""},
+		{"": ""},
+		{"": ""},
+		{"": ""}	
+	],
+	"":[
+		{"": ""},
+		{"": ""},
+		{"": ""},
+		{"": ""}	
+	],
+	"":[
+		{"": ""},
+		{"": ""},
+		{"": ""},
+		{"": ""}	
+	],
+	"":[
+		{"": ""},
+		{"": ""},
+		{"": ""},
+		{"": ""}	
+	],
+	"":[
+		{"": ""},
+		{"": ""},
+		{"": ""},
+		{"": ""}	
+	],
+	"":[
+		{"": ""},
+		{"": ""},
+		{"": ""},
+		{"": ""}	
+	],
+	"":[
+		{"": ""},
+		{"": ""},
+		{"": ""},
+		{"": ""}	
+	],
+	"":[
+		{"": ""},
+		{"": ""},
+		{"": ""},
+		{"": ""}	
+	],
+
+
 
 }
