@@ -56,7 +56,7 @@
 		{"every-time-you-say-goodbye": "https://www.youtube.com/watch?v=Th4vhqRlNBI&list=OLAK5uy_mkrc7NZxddK_zUwTSKTPGmbC_tdL31Kx8"}
 	],
 	"The-high-kings": [
-		{"The-irish-roar": "https://www.youtube.com/watch?v=FM4_ke4YELI&list=OLAK5uy_nxUNgiHGPCtc-0smH5NtLg4jxl7Ghmvqg"}
+		{"decade": "https://www.youtube.com/watch?v=zW-ZaG8h7Xs&list=OLAK5uy_lHRAWSNUo-OmtxYWcDU9z94lPZ5PkK2is"}
 	],
 	"daft-punk": [
 		{"tron-legacy-soundtrack": "https://www.youtube.com/watch?v=mGCnOLGwzg0&list=OLAK5uy_mQpLBz0N6mCebSVw7xfyf_x7UZKoVHm_Q"},
@@ -75,8 +75,6 @@
 	"JOJO": [
 		{"jojo": "https://www.youtube.com/watch?v=3CAiuF4ru30&list=OLAK5uy_kNacuAT16JJ3XqoG2kCwq_-jawkTrpDQs"},
 		{"the-high-road": "https://www.youtube.com/watch?v=BhEbPU7UhSo&list=OLAK5uy_mrBruUCgrOLUy7vBx0Cvxzevtixu3HeJM"}
-		{"": ""},
-		{"": ""}
 	],
 	"avril-lavigne": [
 		{"head-above-water": "https://www.youtube.com/watch?v=EKF6ghfcQic&list=OLAK5uy_nZ0ZJ_R5V12ZV7Wbw0N4D7RoyK85eFliU"},
@@ -105,5 +103,10 @@
 		{"dear-agony": "https://www.youtube.com/watch?v=wQjPuUqj7_g&list=OLAK5uy_kFNj8VyQ2a3MLmx9kk-xFAiWQbz4w7BSw"},
 		{"phobia": "https://www.youtube.com/watch?v=84cdTtK62dw&list=OLAK5uy_nl-1HFsx8cCC8wSkTKnMmxQejjqLU-1FY"}
 	],
+	"the beatles":[
+		{"1": "https://www.youtube.com/watch?v=pt_zgUqoyWI&list=OLAK5uy_nw79XlhbNKbUhCEHglLc2e8KR_XY20AuU"},
+		{"the-white-album": "https://www.youtube.com/watch?v=nS5_EQgbuLc&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI"},
+		{"help": "https://www.youtube.com/watch?v=2Q_ZzBGPdqE&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A"}
+	]
 
 }
