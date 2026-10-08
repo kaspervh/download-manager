@@ -19,7 +19,8 @@ fi
 for i in ${artists[@]}; do 
 	cd ~/Music/
 	if [ -d "$i" ]; then
-		echo directory $i exists
+		echo directory $i exists 
+		
 	else
 		echo making directory for artist $artist
 		mkdir $i
@@ -36,7 +37,7 @@ for i in ${artists[@]}; do
 
 			echo downloading songs for album $album with playlist link $link
 
-			yt-dlp -x --audio-format mp3 --audio-quality 0 \
+			yt-dlp -x --audio-format mp3 \
 			  --cookies-from-browser chrome \
 			  -o "%(playlist_index)s - %(title)s.%(ext)s" \
 			  "$link"
