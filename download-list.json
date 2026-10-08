@@ -153,7 +153,7 @@
 	"bon-jovi":[
 		{"keep-the-faith": "https://www.youtube.com/watch?v=TW4P5AcQFwA&list=OLAK5uy_lrxq6xLOtOkDQ06U55hpqnDe9uofsq_nE"},
 		{"cross-road": "https://www.youtube.com/watch?v=lDK9QqIzhwk&list=OLAK5uy_kzC1n2yZLe0Q9tmKkonSxZ-Kdb1CH9-G4"},
-		{"have-a-nice-day": "https://www.youtube.com/watch?v=uCg2BoKiuOM&list=OLAK5uy_lz7T5L0eUxOJczstgiuxDUFpcUPEVAypc"},	
+		{"have-a-nice-day": "https://www.youtube.com/watch?v=uCg2BoKiuOM&list=OLAK5uy_lz7T5L0eUxOJczstgiuxDUFpcUPEVAypc"}
 	],
 	"skillet":[
 		{"revolution": "https://www.youtube.com/watch?v=niNaYjO5VCY&list=OLAK5uy_kv9cYOZ30T6I9x3VfWYp-b6neEcvFU7kY"},
@@ -226,12 +226,5 @@
 		{"scarry-stories-to-fall-asleep-to": "https://www.youtube.com/watch?v=Rf6T9YLyTRY&list=PLgRgJrlop--PnrAXfi1PqXHixO28ra6sE"},
 		{"missing": "https://support.google.com/youtube?p=ppp&nohelpkit=1"}
 	]
-	//"":[
-	//	{"": ""},
-	//	{"": ""},
-	//	{"": ""},
-	//	{"": ""}	
-	//],
-
 
 }
